@@ -5,4 +5,4 @@ print("Hello akhil")
 
 
 
-print("bang bang")
+print("gang bang")
